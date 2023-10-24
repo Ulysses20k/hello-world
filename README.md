@@ -1,2 +1,3 @@
 # hello-world
-a short description
+Github first assignment description.
+student, Github newbie, reader, & rainy day enjoyer
